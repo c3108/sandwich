@@ -3,13 +3,13 @@
 order_active = True
 group_orders = {}
 name = ''
-menu = ['ham', 'turkey', 'pb&j', 'salami', 'roost beef']
+menu = ['ham', 'turkey', 'pb&j', 'salami', 'roast beef']
 unavailable = 'turkey'
 
 print("Welcome to group sandwich ordering. " +
 	"Type 'done' at any time to quit orders")
 
-print("\n We offer ham, turkey, pb&j, salami, and roost beef sandwichs")
+print("\n We offer ham, turkey, pb&j, salami, and roast beef sandwichs")
 
 while order_active:
 
